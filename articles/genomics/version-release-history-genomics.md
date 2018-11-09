@@ -5,7 +5,7 @@ description: The Microsoft Genomics regularly updates the Microsoft Genomics Pyt
 services: genomics
 author: grhuynh
 manager: cgronlun
-ms.author: grhuynh
+ms.author: ruchir
 ms.service: genomics
 ms.topic: article
 ms.date: 03/02/2018
@@ -28,4 +28,4 @@ Version 0.7.4 includes support for accepting SAS tokens instead of account keys 
 Version 0.7.3 includes minor bug fixes
 
 ### Version 0.7.2
-Version 0.7.2 is the initial version. It was released November 1 2017 and utilizes GATK 3.3.
+Version 0.7.2 is the initial version. It was released November 1 2017.
